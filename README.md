@@ -128,9 +128,9 @@ If you use this work in your research, please cite:
 ```bibtex
 @software{ev_bus_charging_2024,
   title = {EV Bus Charging Optimization using Reinforcement Learning},
-  author = {Your Name},
-  year = {2024},
-  url = {https://github.com/yourusername/ev-bus-charging-optimization}
+  author = {Diya Kaushik},
+  year = {2025},
+  url = {https://github.com/DiyaKaushik/ev-bus-charging-optimization}
 }
 ```
 
@@ -138,7 +138,7 @@ If you use this work in your research, please cite:
 
 **Your Name**
 - GitHub: [@DiyaKaushik](https://github.com/DiyaKaushik)
-- LinkedIn: [Diya Kaushik]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/diya-kaushik-652806265?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5Sr%2Fru84Qx61tk%2BAPJaWzg%3D%3D))
+- LinkedIn: https://www.linkedin.com/in/diya-kaushik-652806265?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5Sr%2Fru84Qx61tk%2BAPJaWzg%3D%3D
 - Email: Diyakaushik027@gmail.com
 
 ## 📜 License
