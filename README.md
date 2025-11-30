@@ -138,7 +138,7 @@ If you use this work in your research, please cite:
 
 **Your Name**
 - GitHub: [@DiyaKaushik](https://github.com/DiyaKaushik)
-- LinkedIn: https://www.linkedin.com/in/diya-kaushik-652806265?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5Sr%2Fru84Qx61tk%2BAPJaWzg%3D%3D
+- LinkedIn:[Diya Kaushik] https://www.linkedin.com/in/diya-kaushik-652806265?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5Sr%2Fru84Qx61tk%2BAPJaWzg%3D%3D
 - Email: Diyakaushik027@gmail.com
 
 ## 📜 License
