@@ -138,7 +138,7 @@ If you use this work in your research, please cite:
 **Diya Kaushik**
 - GitHub: [@DiyaKaushik](https://github.com/DiyaKaushik)
 - LinkedIn: [Diya Kaushik](https://www.linkedin.com/in/diya-kaushik-652806265/)
-- Email: [Your Email Here]
+- Email: [DiyaKaushik027@gmail.com]
 
 ## 📜 License
 
@@ -157,7 +157,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## ⭐ If you find this project useful, please give it a star! ⭐
-
-[![Star History Chart](https://api.star-history.com/svg?repos=DiyaKaushik/ev-bus-charging-optimization&type=Date)](https://star-history.com/#DiyaKaushik/ev-bus-charging-optimization&Date)
-
-**Note:** Just add your email address in the email section above before publishing!
